@@ -1,0 +1,14 @@
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\WebTest.exe.config
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\WebTest.exe
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\WebTest.pdb
+C:\Project\Console Application\WebTest\WebTest\obj\Debug\WebTest.csprojAssemblyReference.cache
+C:\Project\Console Application\WebTest\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+C:\Project\Console Application\WebTest\WebTest\obj\Debug\WebTest.exe
+C:\Project\Console Application\WebTest\WebTest\obj\Debug\WebTest.pdb
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Console Application\WebTest\WebTest\obj\Debug\WebTest.csproj.CopyComplete
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\CSS\style.css
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\HTML\Report.html
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\HTML\Reports.html
+C:\Project\Console Application\WebTest\WebTest\bin\Debug\Config\AppConfig.json

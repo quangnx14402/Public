@@ -1,0 +1,114 @@
+{
+  "SQLFolder": "\\\\sgn-comm01.corp.expeditors.com\\sys\\_Departments\\15. S_GBO\\Sharing\\Quang Nguyen\\Sequel\\DBVIS SQL\\Report on demand",
+  "ResultFolder": "\\\\sgn-comm01.corp.expeditors.com\\sys\\_Departments\\15. S_GBO\\Sharing\\Quang Nguyen\\Report\\Report on demand",
+  "ReportList": [
+    {
+      "ReportName": "OM-NHU DANG-GENERAL-SHIPMENT NUMBER FROM ISF REF",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "OM-NHU DANG-GENERAL-SHIPMENT NUMBER FROM ISF REF",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "ISF References",
+          "Type": "textarea"
+        }
+      ]
+    },
+    {
+      "ReportName": "OM-EVANS DAU-GENERAL-ORDER PEICES FROM PO NUMBER",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "OM-EVANS DAU-GENERAL-ORDER PEICES FROM PO NUMBER",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "SYSTEM_DESTIN",
+          "Type": "text"
+        },
+        {
+          "Name": "PO Numbers",
+          "Type": "textarea"
+        }
+      ]
+    },
+    {
+      "ReportName": "OCEAN-NA-GENERAL-GET FCR, SHIPMENT FROM DOC PIC AND COB DATE RANGE",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "OCEAN-NA-GENERAL-GET FCR, SHIPMENT FROM DOC PIC AND COB DATE RANGE",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "COB From",
+          "Type": "date"
+        },
+        {
+          "Name": "COB To",
+          "Type": "date"
+        },
+        {
+          "Name": "PIC",
+          "Type": "textarea"
+        }
+      ]
+    },
+    {
+      "ReportName": "OM-NA-GENERAL-GET CMA CONTAINER MATRIX",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "OM-NA-GENERAL-GET CMA CONTAINER MATRIX",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "53Z/63Z",
+          "Type": "textarea"
+        }
+      ]
+    },
+    {
+      "ReportName": "OM-NA-GENERAL-GET DIMS DATA FROM SO",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "OM-NA-GENERAL-GET DIMS DATA FROM SO",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "SO List",
+          "Type": "textarea"
+        }
+      ]
+    },
+    {
+      "ReportName": "ACC-DANNI-GENERAL-GET COB DATE FROM MBL NUMBER",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "ACC-DANNI-GENERAL-GET COB DATE FROM MBL NUMBER",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "BL Numbers",
+          "Type": "textarea"
+        }
+      ]
+    },
+
+    {
+      "ReportName": "IMPORT-TUYET LAI-GENERAL-EVENT DETAIL FROM REVENUE ID AND EVENT CODE",
+      "DatabaseName": "ETMS",
+      "ProtoSQLFileName": "IMPORT-TUYET LAI-GENERAL-EVENT DETAIL FROM REVENUE ID AND EVENT CODE",
+      "ResultFormat": "xlsx",
+      "TimeOut": 60000,
+      "Paramaters": [
+        {
+          "Name": "REVENUE ID",
+          "Type": "textarea"
+        },
+        {
+          "Name": "EVENT CODE",
+          "Type": "textarea"
+        }
+      ]
+    }
+  ]
+}

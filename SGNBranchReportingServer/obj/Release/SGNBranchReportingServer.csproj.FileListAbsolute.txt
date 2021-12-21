@@ -1,0 +1,13 @@
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\CSS\style.css
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\HTML\Report.html
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\HTML\Reports.html
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\Config\AppConfig - Copy.json
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\Config\AppConfig.json
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\SGNBranchReportingServer.exe.config
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\SGNBranchReportingServer.exe
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\bin\Release\SGNBranchReportingServer.pdb
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\obj\Release\SGNBranchReportingServer.csproj.AssemblyReference.cache
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\obj\Release\SGNBranchReportingServer.csproj.SuggestedBindingRedirects.cache
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\obj\Release\SGNBranchReportingServer.csproj.CoreCompileInputs.cache
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\obj\Release\SGNBranchReportingServer.exe
+C:\Project\Web Application\SGNBranchReportingServer\SGNBranchReportingServer\obj\Release\SGNBranchReportingServer.pdb
